@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block body %}
+<style type="text/css">
+  .a-btn{
+    border:none;
+    background: none;
+    color:#337ab7;
+  }
+  .a-btn:hover{
+    text-decoration: underline;
+  }
+  .a-btn:focus{
+    outline: none;
+  }
+
+  .ban{
+    cursor:not-allowed;
+    color:#cccccc;
+
+  }
+  .ban:hover{
+    text-decoration: none;
+  }
+</style>
+  <script type="text/javascript" src="{{url_for('static', filename='js/reanalysis.js')}}"></script>
+  <div class="col-lg-10">
+    <p style="font-size:15px;margin-left:-122px">检出样本统计:</p>
+    <table class="result" border="1" style="margin-left:-122px;width: 1350px;word-wrap:break-word;">
+      <tr style="font-size:15px;">
+          <th style="text-align:center">投放样本时间</th>
+          <th style="text-align:center">重解析开始时间</th>
+          <th style="text-align:center">解析结束时间</th>
+          <th style="text-align:center">投放样本总数</th>
+          <th style="text-align:center">YARA检出率</th>
+          <th style="text-align:center">解析状态</th>
+      </tr>
+      {% if log %}
+          {% for item in log %}
+          <tr style="text-align: center">
+            <td>{{item.sumbit_date}}</td>
+            <td>{{item.reanalysis_starttime}}</td>
+            <td>{{item.analysis_date}}</td>
+            <td>{{item.total_count}}</td>
+            <td><a href="/getresult/{{item.sumbit_date}}_yara_black">{{item.yara.yara_percent}} ({{item.yara.yara_count}})</a></td>
+            {% if item.sumbit_date in status%}
+              <td>正在重新解析</td>
+            {% else %}
+              <td>等待重新解析</td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+      {% endif %} 
+    </table>
+  </div>
+
+<!--   <input class="btn btn-primary" style="margin-left:1128px; margin-top:20px;" type="button" value="一键全部重解析" onclick="reanalysisall(this.id)" id="reanalysisall_black"> -->
+{% endblock %}

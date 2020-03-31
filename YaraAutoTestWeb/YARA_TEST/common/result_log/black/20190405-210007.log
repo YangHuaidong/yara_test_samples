@@ -1,0 +1,88 @@
+{
+    "yara": {
+        "yara_percent": "0.69%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0xea", 
+                            "refer": "455b3a20fae6e97af04b09f0aabc9025"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0xea_776"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0xeal", 
+                            "refer": "1e4d4c07bca3954643550a93042d0494"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0xeal_777"
+                    }
+                ], 
+                "md5": "e2b4c50b7c02ad5f5c6b8d96ff2225a4"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Malware", 
+                            "description": "Detects a chinese hacktool with unknown use", 
+                            "family": "Antavmu", 
+                            "author": "Florian Roth -lz", 
+                            "date": "2014-10-10", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Malware]/Win32.Antavmu.a", 
+                            "refer": "98c07a62f7f0842bcdbf941170f34990"
+                        }, 
+                        "rulename": "Trojan_Malware_Win32_Antavmu_a_820"
+                    }
+                ], 
+                "md5": "ddce50559d3478d4382106565605cba3"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Hacktool", 
+                            "description": "Anthem Hack Deep Panda - htran-exe", 
+                            "family": "Hucline", 
+                            "author": "Florian Roth-copy", 
+                            "date": "2018-06-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Hacktool]/Win32.Hucline.aab", 
+                            "refer": "f34914dd1faabfc94a8695e7229d0192"
+                        }, 
+                        "rulename": "Trojan_Hacktool_Win32_Hucline_aab_394_531"
+                    }
+                ], 
+                "md5": "8551d767a6e601e61082ef2c53fd47ac"
+            }
+        ], 
+        "yara_count": 3
+    }, 
+    "total_count": 434, 
+    "analysis_date": "20190706-035216", 
+    "samples_path": "/home/nginx/html/yara_black_samples/5_finish", 
+    "sumbit_date": "20190405-210007", 
+    "reanalysis_starttime": "20190706-035153"
+}

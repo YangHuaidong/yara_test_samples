@@ -1,0 +1,11 @@
+{% extends "yarabase.html" %}
+{% block body %}
+
+<div class="container">
+  <ul>
+   {% for file in filenames %}
+    <li style="color:#337ab7;font-size:15px;">{{file[1]}}------{{file[2]}}</li>
+   {% endfor %}
+  </ul>
+</div>
+{% endblock %}

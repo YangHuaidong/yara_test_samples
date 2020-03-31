@@ -1,0 +1,853 @@
+{
+    "yara": {
+        "yara_percent": "92.86%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dd39d17e9baca0363cc1c3664e608929", 
+                            "description": "Webshells Auto-generated - file phpinj.php", 
+                            "family": "FSO", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.FSO.s.phpinj.2.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_FSO_s_phpinj_2_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dd39d17e9baca0363cc1c3664e608929", 
+                            "description": "Webshells Auto-generated - file phpinj.php", 
+                            "family": "FSO", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.FSO.s.phpinj.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_FSO_s_phpinj_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "d7a4b0df45d34888d5a09f745e85733f", 
+                            "description": "Semi-Auto-generated  - file pHpINJ.php.php.txt", 
+                            "family": "pHpINJ", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.pHpINJ.php.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_pHpINJ_php_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "75116bee1ab122861b155cc1ce45a112c28b9596", 
+                            "description": "PHP Webshells Github Archive - file pHpINJ.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.php.webshells.pHpINJ.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_php_webshells_pHpINJ_a"
+                    }
+                ], 
+                "md5": "dd39d17e9baca0363cc1c3664e608929"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "ea5612492780a26b8aa7e5cedd9b8f4e", 
+                            "description": "Web Shell - file inback3.jsp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.jsp.inback3.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_jsp_inback3_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e26e7e0ebc6e7662e1123452a939e2cd", 
+                            "description": "Web Shell - file IXRbE.jsp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.jsp.IXRbE.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_jsp_IXRbE_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "67627c264db1e54a4720bd6a64721674", 
+                            "description": "Web Shell - file zx.jsp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.jsp.zx.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_jsp_zx_a"
+                    }
+                ], 
+                "md5": "e26e7e0ebc6e7662e1123452a939e2cd"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e7b994fe9f878154ca18b7cde91ad2d0", 
+                            "description": "Web Shell - file hkmjj.asp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.caidao.shell.hkmjj.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_caidao_shell_hkmjj_a"
+                    }
+                ], 
+                "md5": "e7b994fe9f878154ca18b7cde91ad2d0"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e0cfb2ffaa1491aeaf7d3b4ee840f72d42919d22", 
+                            "description": "Insomnia Webshell - file InsomniaShell.aspx", 
+                            "family": "Webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 80, 
+                            "date": "2014/12/09", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Insomnia.a", 
+                            "reference": "http://www.darknet.org.uk/2014/12/insomniashell-asp-net-reverse-shell-bind-shell/"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Insomnia_a"
+                    }
+                ], 
+                "md5": "7d38a8be58c34e4b94e0bbfa302416df"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "135fc50f85228691b401848caef3be9e", 
+                            "description": "Webshells Auto-generated - file indexer.asp", 
+                            "family": "FSO", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.FSO.s.indexer.2.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_FSO_s_indexer_2_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "135fc50f85228691b401848caef3be9e", 
+                            "description": "Webshells Auto-generated - file indexer.asp", 
+                            "family": "FSO", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.FSO.s.indexer.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_FSO_s_indexer_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "9ea82afb8c7070817d4cdf686abe0300", 
+                            "description": "Semi-Auto-generated  - file indexer.asp.txt", 
+                            "family": "indexer", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.indexer.asp.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_indexer_asp_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "9ea82afb8c7070817d4cdf686abe0300", 
+                            "description": "Web Shell - file Inderxer.asp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.Inderxer.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_Inderxer_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e9a7aa5eb1fb228117dc85298c7d3ecd8e288a2d", 
+                            "description": "PHP Webshells Github Archive - file indexer.asp.php.txt", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.indexer.asp.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_indexer_asp_php_a"
+                    }
+                ], 
+                "md5": "135fc50f85228691b401848caef3be9e"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dee697481383052980c20c48de1598d1", 
+                            "description": "Semi-Auto-generated  - file telnet.cgi.txt", 
+                            "family": "telnet", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.telnet.cgi.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_telnet_cgi_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dd9dba14383064e219e29396e242c1ec", 
+                            "description": "Semi-Auto-generated  - file telnet.pl.txt", 
+                            "family": "telnet", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.telnet.pl.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_telnet_pl_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "72e5f0e4cd438e47b6454de297267770a36cbeb3", 
+                            "description": "PHP Webshells Github Archive - file cgitelnet.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.cgitelnet.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_cgitelnet_a"
+                    }
+                ], 
+                "md5": "dd9dba14383064e219e29396e242c1ec"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Backdoor", 
+                            "description": "Web Shell - file a.php", 
+                            "family": "PhpShell", 
+                            "author": "copy", 
+                            "date": "2018-11-13", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Backdoor]/Win32.PhpShell.a", 
+                            "refer": "e3b461f7464d81f5022419d87315a90d"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Win32_PhpShell_a_870_144"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e8693a2d4a2ffea4df03bb678df3dc6d", 
+                            "description": "Webshells Auto-generated - file phpshell.php", 
+                            "family": "phpshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.phpshell.3.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_phpshell_3_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "9a928d741d12ea08a624ee9ed5a8c39d", 
+                            "description": "Semi-Auto-generated  - file phpshell17.php.txt", 
+                            "family": "phpshell17", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.phpshell17.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_phpshell17_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "1a95f0163b6dea771da1694de13a3d8d", 
+                            "description": "Semi-Auto-generated  - file shell.php.php.txt", 
+                            "family": "shell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.shell.php.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_shell_php_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "description": "Detects Webshell - rule generated from from files Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt, Macker's Private PHPShell.php, matamu.txt, myshell.txt, PHP Shell.txt", 
+                            "family": "Webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "hash5": "61c4fcb6e788c0dffcf0b672ae42b1676f8a9beaa6ec7453fc59ad821a4a8127", 
+                            "hash4": "77a63b26f52ba341dd2f5e8bbf5daf05ebbdef6b3f7e81cec44ce97680e820f9", 
+                            "score": 70, 
+                            "hash1": "0e25aec0a9131e8c7bd7d5004c5c5ffad0e3297f386675bccc07f6ea527dded5", 
+                            "hash3": "2ebf3e5f5dde4a27bbd60e15c464e08245a35d15cc370b4be6b011aa7a46eaca", 
+                            "hash2": "9c43aada0d5429f8c47595f79a7cdd5d4eb2ba5c559fb5da5a518a6c8c7c330a", 
+                            "date": "2016-01-11", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Ayyildiz.a", 
+                            "reference": "https://github.com/nikicat/web-malware-collection"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Ayyildiz_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "5fe8c1d01dc5bc70372a8a04410faf8fcde3cb68", 
+                            "description": "PHP Webshells Github Archive - file Ayyildiz Tim  -AYT- Shell v 2.1 Biz.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.Ayyildiz.Tim...AYT..Shell.v.2.1.Biz.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_Ayyildiz_Tim___AYT__Shell_v_2_1_Biz_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e3b461f7464d81f5022419d87315a90d", 
+                            "description": "Web Shell - file a.php", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.PHP.a.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_PHP_a_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "d477aae6bd2f288b578dbf05c1c46b3aaa474733", 
+                            "description": "PHP Webshells Github Archive - file matamu.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.php.webshells.matamu.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_php_webshells_matamu_a"
+                    }
+                ], 
+                "md5": "e3b461f7464d81f5022419d87315a90d"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "366ad973a3f327dfbfb915b0faaea5a6", 
+                            "description": "Semi-Auto-generated  - file DTool Pro.php.txt", 
+                            "family": "DTool", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.DTool.Pro.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_DTool_Pro_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e2ee1c7ba7b05994f65710b7bbf935954f2c3353", 
+                            "description": "PHP Webshells Github Archive - file DTool Pro.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.DTool.Pro.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_DTool_Pro_a"
+                    }
+                ], 
+                "md5": "366ad973a3f327dfbfb915b0faaea5a6"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e1adda1f866367f52de001257b4d6c98", 
+                            "description": "Semi-Auto-generated  - file backdoor1.php.txt", 
+                            "family": "backdoor1", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.backdoor1.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_backdoor1_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "0506ba90759d11d78befd21cabf41f3d", 
+                            "description": "Webshells Auto-generated - file PHP Backdoor v1.php", 
+                            "family": "PHP", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.PHP.Backdoor.v1.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_PHP_Backdoor_v1_a"
+                    }
+                ], 
+                "md5": "e1adda1f866367f52de001257b4d6c98"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Backdoor", 
+                            "description": "Web Shell - file a.php", 
+                            "family": "PhpShell", 
+                            "author": "copy", 
+                            "date": "2018-11-13", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Backdoor]/Win32.PhpShell.a", 
+                            "refer": "e3b461f7464d81f5022419d87315a90d"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Win32_PhpShell_a_870_144"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "a2f8fa4cce578fc9c06f8e674b9e63fd", 
+                            "description": "Semi-Auto-generated  - file PHP Shell.php.php.txt", 
+                            "family": "PHP", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.PHP.Shell.php.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_PHP_Shell_php_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "1a95f0163b6dea771da1694de13a3d8d", 
+                            "description": "Semi-Auto-generated  - file shell.php.php.txt", 
+                            "family": "shell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.shell.php.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_shell_php_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "description": "Detects Webshell - rule generated from from files Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt, Macker's Private PHPShell.php, matamu.txt, myshell.txt, PHP Shell.txt", 
+                            "family": "Webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "hash5": "61c4fcb6e788c0dffcf0b672ae42b1676f8a9beaa6ec7453fc59ad821a4a8127", 
+                            "hash4": "77a63b26f52ba341dd2f5e8bbf5daf05ebbdef6b3f7e81cec44ce97680e820f9", 
+                            "score": 70, 
+                            "hash1": "0e25aec0a9131e8c7bd7d5004c5c5ffad0e3297f386675bccc07f6ea527dded5", 
+                            "hash3": "2ebf3e5f5dde4a27bbd60e15c464e08245a35d15cc370b4be6b011aa7a46eaca", 
+                            "hash2": "9c43aada0d5429f8c47595f79a7cdd5d4eb2ba5c559fb5da5a518a6c8c7c330a", 
+                            "date": "2016-01-11", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Ayyildiz.a", 
+                            "reference": "https://github.com/nikicat/web-malware-collection"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Ayyildiz_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "description": "PHP Webshells Github Archive - from files Macker's Private PHPShell.php, PHP Shell.php, Safe0ver Shell -Safe Mod Bypass By Evilc0der.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "hash1": "9ad55629c4576e5a31dd845012d13a08f1c1f14e", 
+                            "hash0": "fc1ae242b926d70e32cdb08bbe92628bc5bd7f99", 
+                            "hash2": "c4aa2cf665c784553740c3702c3bfcb5d7af65a3", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.Generic.PHP.8.a", 
+                            "super_rule": 1, 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_Generic_PHP_8_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e24cbf0e294da9ac2117dc660d890bb9", 
+                            "description": "Web Shell - file Macker's Private PHPShell.php", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.Macker.s.Private.PHPShell.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_Macker_s_Private_PHPShell_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "e3b461f7464d81f5022419d87315a90d", 
+                            "description": "Web Shell - file a.php", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.PHP.a.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_PHP_a_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "a2f8fa4cce578fc9c06f8e674b9e63fd", 
+                            "description": "Web Shell - file PHP Shell.php", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.PHP.Shell.x3.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_PHP_Shell_x3_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "d477aae6bd2f288b578dbf05c1c46b3aaa474733", 
+                            "description": "PHP Webshells Github Archive - file matamu.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.php.webshells.matamu.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_php_webshells_matamu_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "366639526d92bd38ff7218b8539ac0f154190eb8", 
+                            "description": "PHP Webshells Github Archive - file safe0ver.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.safe0ver.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_safe0ver_a"
+                    }
+                ], 
+                "md5": "e24cbf0e294da9ac2117dc660d890bb9"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dee697481383052980c20c48de1598d1", 
+                            "description": "Semi-Auto-generated  - file telnet.cgi.txt", 
+                            "family": "telnet", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.telnet.cgi.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_telnet_cgi_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "dd9dba14383064e219e29396e242c1ec", 
+                            "description": "Semi-Auto-generated  - file telnet.pl.txt", 
+                            "family": "telnet", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.telnet.pl.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_telnet_pl_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "72e5f0e4cd438e47b6454de297267770a36cbeb3", 
+                            "description": "PHP Webshells Github Archive - file cgitelnet.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.cgitelnet.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_cgitelnet_a"
+                    }
+                ], 
+                "md5": "dee697481383052980c20c48de1598d1"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "de9abc2e38420cad729648e93dfc6687", 
+                            "description": "Semi-Auto-generated  - file lamashell.php.txt", 
+                            "family": "lamashell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.lamashell.php.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_lamashell_php_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "b71181e0d899b2b07bc55aebb27da6706ea1b560", 
+                            "description": "PHP Webshells Github Archive - file lamashell.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.lamashell.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_lamashell_a"
+                    }
+                ], 
+                "md5": "de9abc2e38420cad729648e93dfc6687"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "1c01f8a88baee39aa1cebec644bbcb99", 
+                            "description": "Semi-Auto-generated  - file aspydrv.asp.txt", 
+                            "family": "aspydrv", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 60, 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.aspydrv.asp.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_aspydrv_asp_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "de0a58f7d1e200d0b2c801a94ebce330", 
+                            "description": "Web Shell - file aspydrv.asp", 
+                            "family": "webshell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "score": 70, 
+                            "date": "2014/01/28", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.webshell.ASP.aspydrv.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_webshell_ASP_aspydrv_a"
+                    }, 
+                    {
+                        "meta": {
+                            "comment": "None", 
+                            "hacker": "None", 
+                            "threattype": "BackDoor", 
+                            "hash": "3d8996b625025dc549d73cdb3e5fa678ab35d32a", 
+                            "description": "PHP Webshells Github Archive - file aspydrv.php", 
+                            "family": "WebShell", 
+                            "author": "Spider", 
+                            "judge": "unknown", 
+                            "date": "None", 
+                            "threatname": "WebShell[BackDoor]/Unlimit.WebShell.php.webshells.aspydrv.a", 
+                            "reference": "None"
+                        }, 
+                        "rulename": "WebShell_BackDoor_Unlimit_WebShell_php_webshells_aspydrv_a"
+                    }
+                ], 
+                "md5": "de0a58f7d1e200d0b2c801a94ebce330"
+            }
+        ], 
+        "yara_count": 13
+    }, 
+    "total_count": 14, 
+    "analysis_date": "20190719-141820", 
+    "samples_path": "/home/nginx/html/yara_black_samples/3_finish", 
+    "sumbit_date": "20190719-141818", 
+    "reanalysis_starttime": ""
+}

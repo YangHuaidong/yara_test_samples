@@ -1,0 +1,973 @@
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:44] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:44] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:35:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:36:37] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:36:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:36:37] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:36:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:36:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:39:47] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:39:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:39:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:39:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:39:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:40:58] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:40:58] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:40:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:40:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:40:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:42:19] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:42:19] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:42:19] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:42:19] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:42:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:47:06] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:47:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:47:07] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:47:07] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:47:07] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:13] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:15] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:49:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:53:37] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:53:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:53:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:53:37] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:53:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:58:00] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:58:00] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 13:58:09] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/index/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/index/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/index/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/index/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/config.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/upload_yara/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 942-038-871
+INFO _internal.py:122  * Detected change in '/home/Yara/info/core/upload_yara/views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 240-652-452
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 240-652-452
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 14:56:54] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 14:57:00] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 14:57:05] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/Yara/YaraAutoTestWeb.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 240-652-452
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:18:22] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:18:22] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:18:30] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:18:30] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 240-652-452
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:27:40] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:28:09] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:28:10] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 240-652-452
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:35:14] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:35:23] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:35:23] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:36:10] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:36:10] "GET /getlog HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:36:58] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yaraindex.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yaraindex.yarahome'. Did you mean 'index.home' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:39:09] "GET /yara HTTP/1.1" 500 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yaraindex.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yaraindex.yarahome'. Did you mean 'index.home' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:39:11] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:39:43] "GET / HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('index.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'index.yarahome'. Did you mean 'index.home' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:39:48] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:41:30] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:41:37] "GET / HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yaraindex.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yaraindex.yarahome'. Did you mean 'index.home' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:41:42] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:42:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:42:50] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:01] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:02] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:10] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:15] "GET / HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yaraindex.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yaraindex.yarahome'. Did you mean 'index.home' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:29] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:43:32] "GET /yara/ HTTP/1.1" 404 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:44:25] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:44:30] "GET /yata HTTP/1.1" 404 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yara.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yara.yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:45:57] "GET /yara HTTP/1.1" 500 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yara.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yara.yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:46:00] "GET /yara HTTP/1.1" 500 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yara.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yara.yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:46:01] "GET /yara HTTP/1.1" 500 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yara.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yara.yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:46:01] "GET /yara HTTP/1.1" 500 -
+ERROR app.py:1891 Exception on /yara [GET]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 43, in yarahome
+    return render_template('yaraindex.html')
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yaraindex.html", line 1, in top-level template code
+    {% extends "yarabase.html" %}
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/templates/yarabase.html", line 16, in top-level template code
+    <h1><a href="{{url_for('yara.yarahome')}}">Yara规则校验及入库</a></h1>
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'yara.yarahome'. Did you mean 'upload_yara.yarahome' instead?
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:46:01] "GET /yara HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:47:08] "GET /yara HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /uploads2judge [POST]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 80, in uploads2judge
+    savedir = os.path.join(cfg.config_path.UPLOAD_FOLDER_2JUDGE, savetime)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:47:21] "POST /uploads2judge HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:49:15] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:49:26] "GET /yara HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /uploads2judge [POST]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 81, in uploads2judge
+    savedir = os.path.join(cfg.config_path.UPLOAD_FOLDER_2JUDGE, savetime)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:49:34] "POST /uploads2judge HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:57:36] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:57:37] "GET /yara HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /uploads2judge [POST]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 86, in uploads2judge
+    os.mkdir(savedir)
+FileNotFoundError: [Errno 2] No such file or directory: '"/home/YaraAutoTestWeb/YARA_TEST/uploads2judge"/Tue_Sep__3_15_57_43_2019'
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 15:57:43] "POST /uploads2judge HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:07:41] "GET /yara HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /uploads2judge [POST]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 85, in uploads2judge
+    os.mkdir(savedir)
+FileNotFoundError: [Errno 2] No such file or directory: '"/home/YaraAutoTestWeb/YARA_TEST/uploads2judge"/Tue_Sep__3_16_07_47_2019'
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:07:47] "POST /uploads2judge HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:09:40] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:09:41] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:09:46] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:14:14] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:14:15] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:14:22] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:28:01] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:28:04] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:28:11] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:31:46] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:47:39] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:47:46] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:56:36] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 16:56:45] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:43:51] "GET /yara HTTP/1.1" 200 -
+ERROR app.py:1891 Exception on /uploads2judge [POST]
+Traceback (most recent call last):
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/kevin/.virtualenvs/yara_rules/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/YaraAutoTestWeb/YARA_TEST/info/core/upload_yara/views.py", line 85, in uploads2judge
+    os.mkdir(savedir)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YaraAutoTestWeb/YARA_TEST/uploads2judge/Tue_Sep__3_17_44_00_2019'
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:44:00] "POST /uploads2judge HTTP/1.1" 500 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:44:53] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:45:00] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:47:04] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:47:05] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:47:11] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:49:10] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:49:18] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:51:07] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:51:15] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:52:08] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:52:14] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:53:11] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:53:17] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:54:56] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 17:55:01] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:11:47] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:11:48] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:11:55] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:12:38] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:12:44] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:16:27] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:17:21] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:24:19] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:24:25] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:24:37] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Sep/2019 18:24:43] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:34] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:36] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:36] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:36] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:36] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:37] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:39] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:44] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:44] "GET /static/js/reanalysis.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:43:48] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:44:44] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:44:56] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:04:13] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:16:33] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:26:28] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:26:35] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:24:41] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:24:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:24:41] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:24:41] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:24:53] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:58:44] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:58:50] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 10:27:00] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 10:28:46] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:29] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:30] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:31] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:31] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:31] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:32] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:24:58] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 11:25:09] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 13:03:37] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 13:03:42] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:02] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:02] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:02] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:03] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:03] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:03] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:04] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:04] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:02:04] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:00] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:00] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:09] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:10] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:21] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:22] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:36] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:36] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:39] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:39] "GET /static/js/reanalysis.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:04:53] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:05:56] "POST /post HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:05:57] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:07:00] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:10:12] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:10:15] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:13:43] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 11:13:52] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 12:50:56] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 12:50:57] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 12:51:08] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 12:51:20] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:28] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET /static/js/post.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:30] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:31] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:22:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:27:28] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:27:28] "GET /static/js/post.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:27:28] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:27:28] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:27:28] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:33:12] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:33:28] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:36:30] "GET /yara HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:36:36] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:38:15] "POST /uploads2judge HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:39:19] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:39:24] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:39:24] "GET /static/js/reanalysis.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:40:34] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:41:44] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:41:51] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:41:56] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:42:21] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:45:33] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:45:36] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:16] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:16] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:16] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:16] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:25] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:27] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 16:47:28] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:39] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:39] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:39] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:39] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:39] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:41] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:41] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:41] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:41] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:43] "GET /getlog HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:47] "GET /getresult/all_black HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [09/Sep/2019 18:16:52] "GET /getresult/all_white HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:47] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:52] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:52] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:52] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:52] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:52] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:53] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 09:55:53] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:06:15] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:11:26] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:20:40] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:20:40] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:20:40] "GET /static/js/jquery-1.7.2.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:20:40] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [10/Sep/2019 10:20:40] "GET /static/js/post.js HTTP/1.1" 304 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

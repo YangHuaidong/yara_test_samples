@@ -1,0 +1,221 @@
+{
+    "samples_path": "/home/nginx/html/yara_black_samples/31_finish",
+    "sumbit_date": "20190906-174030",
+    "analysis_date": "20190906-174102",
+    "reanalysis_starttime": "",
+    "total_count": 165,
+    "yara": {
+        "details": [
+            {
+                "md5": "b44fcfa64fe83a22d8939f0bc9be5217",
+                "info": [
+                    {
+                        "rulename": "Trojan_Malware_Win32_Antavmu_a_820",
+                        "meta": {
+                            "judge": "black",
+                            "threatname": "Trojan[Malware]/Win32.Antavmu.a",
+                            "threattype": "Malware",
+                            "family": "Antavmu",
+                            "hacker": "None",
+                            "refer": "98c07a62f7f0842bcdbf941170f34990",
+                            "comment": "None",
+                            "date": "2014-10-10",
+                            "description": "Detects a chinese hacktool with unknown use",
+                            "author": "Florian Roth -lz"
+                        }
+                    }
+                ]
+            },
+            {
+                "md5": "d5cf8204da326df8982a6ceca5340217",
+                "info": [
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Multiple_Php_Webshells_A_1321",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "None",
+                            "description": "Semi-Auto-generated  - from files multiple_php_webshells",
+                            "family": "Multiple",
+                            "hacker": "None",
+                            "hash0": "0714f80f35c1fddef1f8938b8d42a4c8",
+                            "hash1": "911195a9b7c010f61b66439d9048f400",
+                            "hash2": "be0f67f3e995517d18859ed57b4b4389",
+                            "hash3": "eddf7a8fde1e50a7f2a817ef7cece24f",
+                            "hash4": "8023394542cddf8aee5dec6072ed02b5",
+                            "hash5": "eed14de3907c9aa2550d95550d1a2d5f",
+                            "hash6": "817671e1bdc85e04cc3440bbd9288800",
+                            "hash7": "7101fe72421402029e2629f3aaed6de7",
+                            "hash8": "f618f41f7ebeb5e5076986a66593afd1",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "super_rule": 1,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Multiple.Php.Webshells.A",
+                            "threattype": "BackDoor"
+                        }
+                    }
+                ]
+            },
+            {
+                "md5": "88246350984729644d4b27a63b6653c4",
+                "info": [
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Bypass_Iisuser_P_A_1531",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/03/28",
+                            "description": "Web shells - generated from file bypass-iisuser-p.asp",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "924d294400a64fa888a79316fb3ccd90",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Bypass.Iisuser.P.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Caidao_Shell_404_A_1544",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file 404.php",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "ee94952dc53d9a29bdf4ece54c7a7aa7",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Caidao.Shell.404.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Caidao_Shell_Guo_A_1545",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file guo.php",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "9e69a8f499c660ee0b4796af14dc08f0",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Caidao.Shell.Guo.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Caidao_Shell_Hkmjj_A_1546",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file hkmjj.asp",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "e7b994fe9f878154ca18b7cde91ad2d0",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Caidao.Shell.Hkmjj.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Getpostphp_A_1586",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/03/28",
+                            "description": "Web shells - generated from file GetPostpHp.php",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "20ede5b8182d952728d594e6f2bb5c76",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Getpostphp.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Jsp_Inback3_A_1613",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file inback3.jsp",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "ea5612492780a26b8aa7e5cedd9b8f4e",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Jsp.Inback3.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Jsp_Zx_A_1625",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file zx.jsp",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "67627c264db1e54a4720bd6a64721674",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Jsp.Zx.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Webshells_New_Asp_A_1743",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/03/28",
+                            "description": "Web shells - generated from file Asp.asp",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "32c87744ea404d0ea0debd55915010b7",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Webshells.New.Asp.A",
+                            "threattype": "BackDoor"
+                        }
+                    },
+                    {
+                        "rulename": "WebShell_BackDoor_Unlimit_Webshell_Wsb_Idc_A_1764",
+                        "meta": {
+                            "author": "Spider",
+                            "comment": "None",
+                            "date": "2014/01/28",
+                            "description": "Web Shell - file idc.php",
+                            "family": "Webshell",
+                            "hacker": "None",
+                            "hash": "7c5b1b30196c51f1accbffb80296395f",
+                            "judge": "unknown",
+                            "reference": "None",
+                            "score": 70,
+                            "threatname": "WebShell[BackDoor]/Unlimit.Webshell.Wsb.Idc.A",
+                            "threattype": "BackDoor"
+                        }
+                    }
+                ]
+            }
+        ],
+        "yara_count": 3,
+        "yara_percent": "1.82%"
+    }
+}

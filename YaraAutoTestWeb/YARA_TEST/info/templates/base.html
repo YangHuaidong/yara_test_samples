@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <!-- <meta charset="UTF-8"> -->
+   <!-- <meta http-equiv="Content-Type" content="text/json"> -->
+   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+   <title>{% block title%}Yara误报批量测试{% endblock %}</title>
+   <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.min.css')}}">
+      <script src="{{url_for('static', filename='js/jquery-1.7.2.min.js')}}"></script>
+      <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1><a href="{{url_for('index.home')}}">Yara误报批量测试</a></h1>
+            <p>1、误报测试依赖沙箱分析;</p>
+            <p>2、误报测试结果会自动推送后台配置的邮箱</p>
+            <p>3、一般情况为<a href="http://172.31.50.39:8081/yara">提交新的yara规则</a>后进行误报测试</p>
+        </div>
+        {% block body %}
+        {% endblock %}
+    </div>
+ 
+</body>
+</html>

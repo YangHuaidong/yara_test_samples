@@ -1,0 +1,98 @@
+{
+    "yara": {
+        "yara_percent": "0.59%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-10-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.DemonBot", 
+                            "refer": "5aa9640658508805cbd15ff9f2e72a3b"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_DemonBot_762"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "Luoxuan", 
+                            "date": "2019-05-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.Huawei", 
+                            "refer": "4a63ead49076c3d480f548579bff9b4e"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_Huawei_1104"
+                    }
+                ], 
+                "md5": "c2a04148e68a4ce23ae20c775d0bfb30"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LGZ", 
+                            "date": "2017-01-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Gafgyt.Ex", 
+                            "refer": "040f2a52bffc3c219958d9d45160333d"
+                        }, 
+                        "rulename": "Trojan_Linux_Gafgyt_Ex_20170324123753_1053_555"
+                    }
+                ], 
+                "md5": "2849b5992684b42d806efb9be62f48b7"
+            }
+        ], 
+        "yara_count": 2
+    }, 
+    "total_count": 341, 
+    "analysis_date": "20190706-035751", 
+    "samples_path": "/home/nginx/html/yara_black_samples/16_finish", 
+    "sumbit_date": "20190607-210007", 
+    "reanalysis_starttime": "20190706-035732"
+}

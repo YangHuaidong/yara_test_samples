@@ -1,0 +1,495 @@
+{
+    "yara": {
+        "yara_percent": "1.30%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "HACKTOOL", 
+                            "description": "Detects all QuarksPWDump versions -lz", 
+                            "family": "QuarksPwDump", 
+                            "author": "Florian Roth", 
+                            "date": "2015-09-29", 
+                            "judge": "black", 
+                            "threatname": "Trojan[HACKTOOL]/Win32.QuarksPwDump.Gen", 
+                            "refer": "312ca371fb8f8b09712e18a7ee609969,1cbe7a8a237dc6e7622111738ea7de02,553b1d2e710e53c2a998c4c13348642d,03f2ba50f64d9d14505651fa045249ff,11aa4b116724d3e4bf343da7354e275f,544642ffe59f54b9c5af4b20ec2678b2,b66c0529af3ead379d9ab0ed7c97a274"
+                        }, 
+                        "rulename": "Trojan_HACKTOOL_Win32_QuarksPwDump_Gen_777_541"
+                    }
+                ], 
+                "md5": "2aa0e9a5077b918d7e8ece480675a174"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Skeeyah", 
+                            "author": "HuangYY", 
+                            "date": "2017-11-02", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Win32.Skeeyah.A", 
+                            "refer": "10e54e97d582c36260499272bcc6494d"
+                        }, 
+                        "rulename": "Trojan_DDoS_Win32_Skeeyah_A_20171221112002_950"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Skeeyah", 
+                            "author": "HuangYY", 
+                            "date": "2017-11-02", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Win32.Skeeyah.A", 
+                            "refer": "10e54e97d582c36260499272bcc6494d"
+                        }, 
+                        "rulename": "Trojan_DDoS_Win32_Skeeyah_A_808"
+                    }
+                ], 
+                "md5": "1fd1cba0dabd315ce3eddf86b85cb717"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Backdoor", 
+                            "description": "None", 
+                            "family": "Ramnit", 
+                            "author": "mqx", 
+                            "date": "2018-08-10", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Backdoor]/Win32.Ramnit.er", 
+                            "refer": "ff5e1f27193ce51eec318714ef038bef"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Win32_Ramnit_A_561_182"
+                    }
+                ], 
+                "md5": "8154945e7a9acd50970d77db4143d80d"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-03-21", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "9d672d2164dcfeb0c68c8e293ad941d2"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_109_1077"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-04-18", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "8afcde4ddb2f600c63fae81711906765"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_88_1097"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-05-02", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.9", 
+                            "refer": "098cada713d7cca2ae588c8d66da187a"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_9_20170511162002_977_271"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "Fariin", 
+                            "date": "2018-11-26", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ag", 
+                            "refer": "2cd9875ea9ca968a95f475c99ee7e971,10ed17a5614075ff29dcf8cc62164939,bcc1b37692dc4a071c75b9abb18df8a0"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ag_751"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LGZ", 
+                            "date": "2017-03-13", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Gafgyt.C", 
+                            "refer": "9feaaf20275a80f9cf46aa36e9aa22e7,81c3ec87c026c7c5b78ee1e7a7ec66fb"
+                        }, 
+                        "rulename": "Trojan_Linux_Gafgyt_C_20170324123752_1051_553"
+                    }
+                ], 
+                "md5": "3e611869df206d780c347a75a7f3aa98"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "None", 
+                            "family": "NanoCore", 
+                            "author": "Kevin Breen <kevin@techanarchy.net>", 
+                            "date": "2016-06-23", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Backdoor]/Win32.NanoCore.a", 
+                            "refer": "877b44301aefc35bfa1ce11f65e0f36c"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Win32_NanoCore_a_20161213095236_930_137"
+                    }
+                ], 
+                "md5": "5ebf649835d173b34c3e1d0defcbba2f"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0x54", 
+                            "refer": "aa77130dd5d577b526753c1941aa1326"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0x54_773"
+                    }
+                ], 
+                "md5": "7c671a564dcd115a793fa72aa3e4e93f"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "APT Dragonfly", 
+                            "comment": "None", 
+                            "threattype": "RAT", 
+                            "description": "None", 
+                            "family": "Sality", 
+                            "author": "HYY", 
+                            "date": "2018-07-16", 
+                            "judge": "black", 
+                            "killchain": "None", 
+                            "threatname": "Trojan[RAT]/Win32.Sality", 
+                            "refer": "f878db63a23a534b1f066d61f80f65ce"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_Sality_D_2_325"
+                    }
+                ], 
+                "md5": "7c230a6d17b3886af55dabe463eb6515"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0x54", 
+                            "refer": "aa77130dd5d577b526753c1941aa1326"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0x54_773"
+                    }
+                ], 
+                "md5": "9c407049dadddf163093e6fd400f9aaa"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "Vi", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.1", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_1_20161213095216_1077_601"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "Kevin Breen <kevin@techanarchy.net>", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.2", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_2_20161213095217_1078_602"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "botherder https://github.com/botherder", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.5", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_3_20161213095219_1080_603"
+                    }
+                ], 
+                "md5": "9c1cda3c8a11208784481a466b4fac26"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Malware", 
+                            "description": "Remote Admin Tool used by APT group Anunak (ru) - file AA_v3.4.exe and AA_v3.5.exe", 
+                            "family": "Ammyy", 
+                            "author": "Florian Roth -lz", 
+                            "date": "2014/12/22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Malware]/Win32.Ammyy.hq", 
+                            "refer": "2cbf5657ffd8858a9597f296a60270c2"
+                        }, 
+                        "rulename": "Trojan_Malware_Win32_Ammyy_hq_1020"
+                    }
+                ], 
+                "md5": "9561c8f7bd981a9eaac23ec6fa9a65e5"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0x54", 
+                            "refer": "aa77130dd5d577b526753c1941aa1326"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0x54_773"
+                    }
+                ], 
+                "md5": "bac0de14b36037e09c61d81dc620b608"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "Luoxuan", 
+                            "date": "2019-03-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDos]/Linux.Mirai.0x22.1", 
+                            "refer": "e08153fbf70ab67d01250fe25ab6262c"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0x22_1_1076"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0x22", 
+                            "refer": "e9e981bf5558bd69f0923d3ab5a4ac27"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0x22_770"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LGZ", 
+                            "date": "2017-03-13", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Mirai.C", 
+                            "refer": "2ffc63bdbb3158c15a80286ea33382aa,5fced6cd62544367b9c571c6257dfe68,7938efbc2ee2ea3501cf8a34ed30e030,bc87838723376af50484771e52ac20d3,f50ce9abf685eddb5fa31ab276f2f2c5"
+                        }, 
+                        "rulename": "Trojan_Linux_Mirai_C_20170407172749_1057_559"
+                    }
+                ], 
+                "md5": "bab29ca2e47bd010d55114ad4a439c5e"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0xea", 
+                            "refer": "455b3a20fae6e97af04b09f0aabc9025"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0xea_776"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-09-12", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.0xeal", 
+                            "refer": "1e4d4c07bca3954643550a93042d0494"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_0xeal_777"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "Luoxuan", 
+                            "date": "2019-04-24", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.EA", 
+                            "refer": "6dee8cd58fc4570c52938e3afd1da58b"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_EA_1101"
+                    }
+                ], 
+                "md5": "baa3a0068c899c47616910efa4772981"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "StormDDoS", 
+                            "author": "djw", 
+                            "date": "2016-09-01", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Win32.StormDDoS.1", 
+                            "refer": "BF8666A54B1D92650190C1A7CDFC757B,870048278C0C7A4B77231DAECBF46A68,6afd74b9bfa5a903d327eae9e4db0bea,6bbc98f1bfa49364493ad63fcc1896ba,035c1ada4bace78dd104cb0e1d184043,ff4ecf9ea02b0d13782eec2dabb17d8c,035c1ada4bace78dd104cb0e1d184043,77cd6a9c98ef5655d0788e52e1788a85,0af30c29e4a41e2635d18a881de503db,1319b3ea3cd283a6d58eea3acbb7e422,140dcee611615f68267fa90c8c761e63,2649fd1f8f140ac0deb64eb9490ecc69,acc3dc8feb9d4b1d420c29de2805f788,0985f2f061956026e66aa45621bd8e1c,02dcd082f051000b7b45de5542b22845,7cfd6df17ef18a34c0cc88e6b7de7643,8b81cc2b9b1cb9adc9568a5dfd8a1484,045af2c1b048aeabac6b789df3227b21,e6343a904c2fcdda66735e0ce7d7b368,03b808604bf5d904f08ec62edb014ee0,42847dae1679a6ed193eca35a2ae7cf7,880a55548f63fb19c4a726c25b2c62d2,ccf2a36a5caaeb5ca4f2504073aa578a,872bd3b8374aaa7be9bef1ec6d010696,f429a831c4cb22ad920d9c492a09e2c8,c8ea3d25944f7d27f0a51254c16e881b,6AAAD0B43D548A6AA122424D38EA888C"
+                        }, 
+                        "rulename": "Trojan_DDoS_Win32_StormDDoS_1_20161213095146_1023_318"
+                    }
+                ], 
+                "md5": "d5f0a7882d2dd0c76dfdbbb5a031b690"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "APT Dragonfly", 
+                            "comment": "None", 
+                            "threattype": "RAT", 
+                            "description": "None", 
+                            "family": "Sality", 
+                            "author": "HYY", 
+                            "date": "2018-07-16", 
+                            "judge": "black", 
+                            "killchain": "None", 
+                            "threatname": "Trojan[RAT]/Win32.Sality", 
+                            "refer": "f878db63a23a534b1f066d61f80f65ce"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_Sality_D_2_325"
+                    }
+                ], 
+                "md5": "d6b06cc0f1f3c6b01d8c153c8aaf3130"
+            }
+        ], 
+        "yara_count": 15
+    }, 
+    "total_count": 1155, 
+    "analysis_date": "20190706-035036", 
+    "samples_path": "/home/nginx/html/yara_black_samples/3_finish", 
+    "sumbit_date": "20190322-210003", 
+    "reanalysis_starttime": "20190706-034938"
+}

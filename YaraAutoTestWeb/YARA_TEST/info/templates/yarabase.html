@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <!-- <meta charset="UTF-8"> -->
+   <!-- <meta http-equiv="Content-Type" content="text/json"> -->
+   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+   <title>{% block title%}Yara规则校验及入库{% endblock %}</title>
+   
+   <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.min.css')}}">
+      <script src="{{url_for('static', filename='js/jquery-1.7.2.min.js')}}"></script>
+      <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1><a href="{{url_for('upload_yara.yarahome')}}">Yara规则校验及入库</a></h1>
+        <p>注意事项：</p>
+	    <p>1、支持yar和yara后缀的文件上传;</p>
+        <p>2、yara规则文件校验全部通过后会自动更新到待测试后台目录</p>
+        <p>3、如果批量提交的规则部分校验不通过,则该批规则不会更新到沙箱分析后台,且不会自动进行误报测试;</p>
+        <p>4、自动化测试在每周星期六凌晨1点进行</p>
+	<p>5、如果分批上传的话 目前默认使用第一次输入的邮箱 后续会改进</p>
+        <p>6、确认准确无误不需要进行误报测试的规则可以直接入库,请谨慎操作;</p>
+        <p>7、<a href="http://172.31.50.46:5204/#/black/yara">规则库地址</a></p>
+        </div>
+        {% block body %}
+        {% endblock %}
+    </div>
+ 
+</body>
+</html>

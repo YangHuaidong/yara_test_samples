@@ -1,0 +1,25 @@
+rule WebShell_BackDoor_Unlimit_Multiple_Webshells_0017_A_1338 {
+  meta:
+    author = "Spider"
+    comment = "None"
+    date = "None"
+    description = "Semi-Auto-generated  - from files w.php.php.txt, wacking.php.php.txt, SsEs.php.php.txt, SpecialShell_99.php.php.txt"
+    family = "Multiple"
+    hacker = "None"
+    hash0 = "38a3f9f2aa47c2e940695f3dba6a7bb2"
+    hash1 = "9c5bb5e3a46ec28039e8986324e42792"
+    hash2 = "6cd50a14ea0da0df6a246a60c8f6f9c9"
+    hash3 = "09609851caa129e40b0d56e90dfc476c"
+    judge = "unknown"
+    reference = "None"
+    super_rule = 1
+    threatname = "WebShell[BackDoor]/Unlimit.Multiple.Webshells.0017.A"
+    threattype = "BackDoor"
+    was = "_w_php_php_wacking_php_php_SsEs_php_php_SpecialShell_99_php_php"
+  strings:
+    $s0 = "\"ext_avi\"=>array(\"ext_avi\",\"ext_mov\",\"ext_mvi"
+    $s1 = "echo \"<b>Execute file:</b><form action=\\\"\".$surl.\"\\\" method=POST><inpu"
+    $s2 = "\"ext_htaccess\"=>array(\"ext_htaccess\",\"ext_htpasswd"
+  condition:
+    1 of them
+}

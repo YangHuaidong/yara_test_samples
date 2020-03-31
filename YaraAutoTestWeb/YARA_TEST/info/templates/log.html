@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block body %}
+{% if log %}
+  <div class="col-lg-10">
+      <table class="log" border = "1"; style="margin-left:-22px;width: 1150px; table-layout: fixed; word-wrap: break-word;">
+        <tr style="font-size:15px">
+            <th style="text-align:center">投放样本时间</th>
+            <th style="text-align:center">投放样本状态</th>
+            <th style="text-align:center">样本黑白属性</th>
+            <th style="text-align:center">投放样本总数</th>
+            <th style="text-align:center">提交失败总数</th>
+        </tr>    
+        {% for item in log %}
+          <tr style="text-align:center">
+            <td>{{item.submit_date}}</td>
+            <td>{{item.submit_status}}</td>
+            <td>{{item.samlpes_type}}
+            {% if "total_count" in item%}
+              <td>{{item.total_count}}</td>
+              <td>{{item.fail_count}}</td>
+            {% else %}
+              <td>正在投放样本</td>
+              <td>正在投放样本</td>
+            {% endif %}
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "yarabase.html" %}
+{% block body %}
+
+<div class="container">
+  <ul>
+   {% for file in filenames %}
+    <li style="color:#337ab7;font-size:15px;">{{file[1]}}------{{file[2]}}</li>
+   {% endfor %}
+  </ul>
+  <!-- {% if status %}
+    <li style="color:#337ab7;font-size:15px;">解析程序正在执行,待样本解析完后再提交规则</li>
+  {% endif %} -->
+</div>
+{% endblock %}

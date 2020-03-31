@@ -1,0 +1,23 @@
+rule Trojan_Backdoor_Win32_Hupigon_23_20161213095123_920_112 
+{
+	meta:
+		judge = "black"
+		threatname = "Trojan[Backdoor]/Win32.Hupigon.23"
+		threattype = "rat"
+		family = "Hupigon"
+		hacker = "None"
+		refer = "229095614004bdaa3eb52895cada236d"
+		description = "None"
+		comment = "None"
+		author = "djw"
+		date = "2016-09-01"
+	strings:
+		$s0 = "Delphi"
+		$s1 = "ProductName"
+		$s2 = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup"
+		$s3 = "Program Files\\Internet Explorer\\IEXPLORE.EXE"
+		$s4 = "</NE><PID>"
+
+	condition:
+		all of them
+}

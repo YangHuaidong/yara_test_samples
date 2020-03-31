@@ -1,0 +1,224 @@
+{
+    "yara": {
+        "yara_percent": "1.55%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Backdoor", 
+                            "description": "None", 
+                            "family": "Ramnit", 
+                            "author": "mqx", 
+                            "date": "2018-08-10", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Backdoor]/Win32.Ramnit.er", 
+                            "refer": "ff5e1f27193ce51eec318714ef038bef"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Win32_Ramnit_A_561_182"
+                    }
+                ], 
+                "md5": "ff5e1f27193ce51eec318714ef038bef"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Downloader", 
+                            "description": "None", 
+                            "family": "Farfli", 
+                            "author": "copy", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DownLoader]/Win32.Farfli.str", 
+                            "refer": "69ECBFD76981A656651D617A44F78732"
+                        }, 
+                        "rulename": "Trojan_DownLoader_Win32_Farfli_str_20170918171458_959"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "RAT", 
+                            "description": "None", 
+                            "family": "Generic", 
+                            "author": "copy", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.Generic.str", 
+                            "refer": "69ECBFD76981A656651D617A44F78732"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_Generic_str_709"
+                    }
+                ], 
+                "md5": "14b24f754b35ccd20d9b1f3fba7f72be"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "Malware", 
+                            "description": "Detects a chinese hacktool with unknown use", 
+                            "family": "Antavmu", 
+                            "author": "Florian Roth -lz", 
+                            "date": "2014-10-10", 
+                            "judge": "black", 
+                            "threatname": "Trojan[Malware]/Win32.Antavmu.a", 
+                            "refer": "98c07a62f7f0842bcdbf941170f34990"
+                        }, 
+                        "rulename": "Trojan_Malware_Win32_Antavmu_a_820"
+                    }
+                ], 
+                "md5": "f08518391709f705402d1f379bdcfd2c"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "Vi", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.1", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_1_20161213095216_1077_601"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "Kevin Breen <kevin@techanarchy.net>", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.2", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_2_20161213095217_1078_602"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "rat", 
+                            "description": "DarkComet RAT", 
+                            "family": "DarkComet", 
+                            "author": "botherder https://github.com/botherder", 
+                            "date": "2016-11-22", 
+                            "judge": "black", 
+                            "threatname": "Trojan[RAT]/Win32.DarkComet.5", 
+                            "refer": "430a4c9547582546ea238be55af72236,4fcd5e3d6b619ad574b414951c95a694,8B2014764027634969837C4EFE47FC88"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_DarkComet_3_20161213095219_1080_603"
+                    }
+                ], 
+                "md5": "d2744a314b094f4d1dcc99c6c7051c6e"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-03-21", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "9d672d2164dcfeb0c68c8e293ad941d2"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_109_1077"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-04-18", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "8afcde4ddb2f600c63fae81711906765"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_88_1097"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-10-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.DemonBot", 
+                            "refer": "5aa9640658508805cbd15ff9f2e72a3b"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_DemonBot_762"
+                    }
+                ], 
+                "md5": "084fcf5691c52958844dbbbd03ba0b46"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "APT Dragonfly", 
+                            "comment": "None", 
+                            "threattype": "RAT", 
+                            "description": "None", 
+                            "family": "Sality", 
+                            "author": "HYY", 
+                            "date": "2018-07-16", 
+                            "judge": "black", 
+                            "killchain": "None", 
+                            "threatname": "Trojan[RAT]/Win32.Sality", 
+                            "refer": "f878db63a23a534b1f066d61f80f65ce"
+                        }, 
+                        "rulename": "Trojan_RAT_Win32_Sality_D_2_325"
+                    }
+                ], 
+                "md5": "075a3cbe1f07f3e0850b69b3cc40ed4f"
+            }
+        ], 
+        "yara_count": 6
+    }, 
+    "total_count": 386, 
+    "analysis_date": "20190706-035520", 
+    "samples_path": "/home/nginx/html/yara_black_samples/9_finish", 
+    "sumbit_date": "20190510-210007", 
+    "reanalysis_starttime": "20190706-035501"
+}

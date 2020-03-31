@@ -1,0 +1,563 @@
+{
+    "yara": {
+        "yara_percent": "1.59%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "BackDoor", 
+                            "description": "None", 
+                            "family": "Setag", 
+                            "author": "cjf", 
+                            "date": "2017-05-09", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Setag", 
+                            "refer": "E9A1C7C31FBAB9855DDDEBF7CBB474AE"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Linux_Setag_20170523183527_897_31"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "http://www.kernelmode.info/forum/viewtopic.php?f=16&t=3429", 
+                            "family": "BillGates", 
+                            "author": "djw, @benkow_", 
+                            "date": "2016-06-23", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.BillGates.Update", 
+                            "refer": "385c946e31449e654fe0bca1b230c979"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_BillGates_Update_20161213095134_964_256"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Setag", 
+                            "author": "HuangYY", 
+                            "date": "2017-08-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Setag.E", 
+                            "refer": "392874332e9f443873cc542d5c1fa3da,a9e72d8cd9adaeb971626b7357530488,d26b6ffee5d75b3c63c2e080f4bc735f,fb32d9ed9ec428e273d020411369c13a,cfb278a75e92c8c97b0cb25b7a2b698a,c836456f56007f0eb68cfc0907a91b36,b83d3f7f759d79bca810e7fdfd7fbcdf,eff867e3dd8756690f768728be5a9147,c695d26b648251e130c57dce34e330da"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Setag_E_20171221111927_911"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Setag", 
+                            "author": "HuangYY", 
+                            "date": "2017-08-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Setag.E", 
+                            "refer": "392874332e9f443873cc542d5c1fa3da,a9e72d8cd9adaeb971626b7357530488,d26b6ffee5d75b3c63c2e080f4bc735f,fb32d9ed9ec428e273d020411369c13a,cfb278a75e92c8c97b0cb25b7a2b698a,c836456f56007f0eb68cfc0907a91b36,b83d3f7f759d79bca810e7fdfd7fbcdf,eff867e3dd8756690f768728be5a9147,c695d26b648251e130c57dce34e330da"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Setag_E_783"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "Chicken_mm", 
+                            "family": "Mayday", 
+                            "author": "zhoufenyan", 
+                            "date": "2016-06-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Mayday", 
+                            "refer": "6663474ecdc8100313ea26828c3f5b36,b02c796c3ec00f1d7bd5a1771c042a36,385c946e31449e654fe0bca1b230c979"
+                        }, 
+                        "rulename": "Trojan_Linux_Mayday_3_20161213095205_1056_558"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "none", 
+                            "comment": "none", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Setag", 
+                            "author": "HuangYY", 
+                            "date": "2016-08-17", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Setag", 
+                            "refer": "8aaf936b63e9ab6bd0ea3c520aa71834,8dc4ac174c1bf456c27a5d4c64649797,15621ba30d969a8257fdb89b5cb9d9ed,b94e63d38073df0009e727039a512ad3,d360cc67cced926ab96a60933578c5e4"
+                        }, 
+                        "rulename": "Trojan_Linux_Setag_20161213095207_947_564"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Xor", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2016-10-25", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Xor.Ex", 
+                            "refer": "A609138F0791CE100BD2AD8EFA1F74B2,B6E04D4EEA2D4E044B9B5C3DDE3BCE0D,D6A5D9BD5E6842BB595B18A9131A84A8"
+                        }, 
+                        "rulename": "Trojan_Linux_Xor_Ex_20161213095208_1065_566"
+                    }
+                ], 
+                "md5": "011fb10d031cdc8ea1242ed91dc1e726"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-03-21", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "9d672d2164dcfeb0c68c8e293ad941d2"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_109_1077"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.1", 
+                            "refer": "16ee980d5961dcadda9b5a0fb1d67d4a"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_1_20170324123741_970_263"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Win32.Gafgyt.2", 
+                            "refer": "31A9611A922813BB28BCA22452DB1E18"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_2_20170324123742_971_265"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.8", 
+                            "refer": "019f7ee397c6b7e0580260c8188233c6"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_8_20170324123749_976_270"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-05-02", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.9", 
+                            "refer": "098cada713d7cca2ae588c8d66da187a"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_9_20170511162002_977_271"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Aj", 
+                            "refer": "149e2c7c1af4cdea70511d4aea25daaf,a6267e55e82c6d9199275bc50f0e6f0a,F1A82109687A20447EA4EF3A43290DE7,1D25F876FDE2807C7358B8EC1126CBC7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Aj_20171221111902_896"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Aj", 
+                            "refer": "149e2c7c1af4cdea70511d4aea25daaf,a6267e55e82c6d9199275bc50f0e6f0a,F1A82109687A20447EA4EF3A43290DE7,1D25F876FDE2807C7358B8EC1126CBC7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Aj_753"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Tsunami", 
+                            "author": "xc", 
+                            "date": "2017-08-31", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Tsunami.bitch", 
+                            "refer": "1c5dfd72d33518df9ae07880d89cc2fb"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Tsunami_bitch_20170913122057_915"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Tsunami", 
+                            "author": "xc", 
+                            "date": "2017-08-31", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Tsunami.bitch", 
+                            "refer": "1c5dfd72d33518df9ae07880d89cc2fb"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Tsunami_bitch_690"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LGZ", 
+                            "date": "2017-01-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Gafgyt.Ex", 
+                            "refer": "040f2a52bffc3c219958d9d45160333d"
+                        }, 
+                        "rulename": "Trojan_Linux_Gafgyt_Ex_20170324123753_1053_555"
+                    }
+                ], 
+                "md5": "5c4a8c4f90285516212bcd908b2e6efc"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-10-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.DemonBot", 
+                            "refer": "5aa9640658508805cbd15ff9f2e72a3b"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_DemonBot_762"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "Luoxuan", 
+                            "date": "2019-05-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.Huawei", 
+                            "refer": "4a63ead49076c3d480f548579bff9b4e"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_Huawei_1104"
+                    }
+                ], 
+                "md5": "5bf5d2cfbf825b57bf084cb79cb0cd8f"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-03-21", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt", 
+                            "refer": "9d672d2164dcfeb0c68c8e293ad941d2"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_109_1077"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.1", 
+                            "refer": "16ee980d5961dcadda9b5a0fb1d67d4a"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_1_20170324123741_970_263"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Win32.Gafgyt.2", 
+                            "refer": "31A9611A922813BB28BCA22452DB1E18"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_2_20170324123742_971_265"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-03-14", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.8", 
+                            "refer": "019f7ee397c6b7e0580260c8188233c6"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_8_20170324123749_976_270"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "cjf", 
+                            "date": "2017-05-02", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.9", 
+                            "refer": "098cada713d7cca2ae588c8d66da187a"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_9_20170511162002_977_271"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Aj", 
+                            "refer": "149e2c7c1af4cdea70511d4aea25daaf,a6267e55e82c6d9199275bc50f0e6f0a,F1A82109687A20447EA4EF3A43290DE7,1D25F876FDE2807C7358B8EC1126CBC7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Aj_20171221111902_896"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2017-09-07", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Aj", 
+                            "refer": "149e2c7c1af4cdea70511d4aea25daaf,a6267e55e82c6d9199275bc50f0e6f0a,F1A82109687A20447EA4EF3A43290DE7,1D25F876FDE2807C7358B8EC1126CBC7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Aj_753"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Tsunami", 
+                            "author": "xc", 
+                            "date": "2017-08-31", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Tsunami.bitch", 
+                            "refer": "1c5dfd72d33518df9ae07880d89cc2fb"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Tsunami_bitch_20170913122057_915"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Tsunami", 
+                            "author": "xc", 
+                            "date": "2017-08-31", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Tsunami.bitch", 
+                            "refer": "1c5dfd72d33518df9ae07880d89cc2fb"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Tsunami_bitch_690"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDOS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LGZ", 
+                            "date": "2017-01-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan/Linux.Gafgyt.Ex", 
+                            "refer": "040f2a52bffc3c219958d9d45160333d"
+                        }, 
+                        "rulename": "Trojan_Linux_Gafgyt_Ex_20170324123753_1053_555"
+                    }
+                ], 
+                "md5": "bef934ad1620a3d1eaa7d529493931a7"
+            }, 
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "lizhenling", 
+                            "date": "2019-02-20", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.Ad", 
+                            "refer": "c16572d49b62d0d11adb1b19df7258d7"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_Ad_1046"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Gafgyt", 
+                            "author": "LiuGuangzhu", 
+                            "date": "2018-10-19", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Gafgyt.DemonBot", 
+                            "refer": "5aa9640658508805cbd15ff9f2e72a3b"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Gafgyt_DemonBot_762"
+                    }, 
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "DDoS", 
+                            "description": "None", 
+                            "family": "Mirai", 
+                            "author": "Luoxuan", 
+                            "date": "2019-05-06", 
+                            "judge": "black", 
+                            "threatname": "Trojan[DDoS]/Linux.Mirai.Huawei", 
+                            "refer": "4a63ead49076c3d480f548579bff9b4e"
+                        }, 
+                        "rulename": "Trojan_DDoS_Linux_Mirai_Huawei_1104"
+                    }
+                ], 
+                "md5": "bed61efe86ae93d107cb485d25d9690f"
+            }
+        ], 
+        "yara_count": 5
+    }, 
+    "total_count": 315, 
+    "analysis_date": "20190706-035553", 
+    "samples_path": "/home/nginx/html/yara_black_samples/10_finish", 
+    "sumbit_date": "20190517-210003", 
+    "reanalysis_starttime": "20190706-035537"
+}

@@ -1,0 +1,82 @@
+﻿{% extends "yarabase.html" %}
+{% block body %}
+<style>
+        .file {
+            position: relative;
+            
+            overflow: hidden;
+            
+            text-decoration: none;
+            text-indent: 0;
+            line-height: 20px;
+            cursor: pointer;
+        }
+        .file input {
+            position: absolute;
+            font-size: 100px;
+            right: 0;
+            top: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+        
+#list{
+	margin-top:20px;
+	list-style:none
+}
+</style>
+
+
+<div class="col-lg-12">
+  <form method="post" action="uploads2judge" enctype="multipart/form-data">
+    
+  <a  class="btn btn-primary file">选择校验文件
+    <input type="file" id = "file2" name="file[]" multiple="">
+  </a>
+<input type="text" name="qqmail" placeholder="QQ邮箱" class="input_txt">
+
+  <a  class="btn btn-primary file">上传校验文件
+     <input type="submit">
+  </a>
+   
+  </form> 
+
+  <form method="post" action="uploads2lib" enctype="multipart/form-data">
+    
+  <a  class="btn btn-primary file">选择入库文件
+    <input type="file" id = "file1" name="file[]" multiple="">
+  </a>
+  <a  class="btn btn-primary file">上传入库文件
+     <input type="submit">
+  </a>
+   
+  </form>
+
+</div>
+
+<ul id="list">
+</ul>
+<script>
+  var filelib=document.getElementById("file1");
+      filelib.onchange=function () {
+          var files=filelib.files,
+              list=document.getElementById("list"),
+              content="";
+          for(var i=0;i<files.length;++i){
+              content+=`<li>${files[i].name}</li>`
+          }
+          list.innerHTML="<p>已选择下列入库文件:</p>"+content;
+      }
+  var filejudge=document.getElementById("file2");
+      filejudge.onchange=function () {
+          var files=filejudge.files,
+              list=document.getElementById("list"),
+              content="";
+          for(var i=0;i<files.length;++i){
+              content+=`<li>${files[i].name}</li>`
+          }
+          list.innerHTML="<p>已选择下列校验文件:</p>"+content;
+      }
+</script>
+
+{% endblock %}

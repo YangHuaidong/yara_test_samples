@@ -1,0 +1,33 @@
+{
+    "yara": {
+        "yara_percent": "0.00%", 
+        "details": [
+            {
+                "info": [
+                    {
+                        "meta": {
+                            "hacker": "None", 
+                            "comment": "None", 
+                            "threattype": "BackDoor", 
+                            "description": "None", 
+                            "family": "BitCoinMiner", 
+                            "author": "HuangYY", 
+                            "date": "2017-09-25", 
+                            "judge": "black", 
+                            "threatname": "Trojan[BackDoor]/Linux.BitCoinMiner.B", 
+                            "refer": "be54a4a931109795b4e526cc54247021"
+                        }, 
+                        "rulename": "Trojan_Backdoor_Liunx_BitCoinMiner_B_729"
+                    }
+                ], 
+                "md5": "0269c891e12ef58712aaba0213f51e2f"
+            }
+        ], 
+        "yara_count": 1
+    }, 
+    "total_count": 38382, 
+    "analysis_date": "20190706-012920", 
+    "samples_path": "/home/nginx/html/yara_white_samples/1_finish", 
+    "sumbit_date": "20190226-115749", 
+    "reanalysis_starttime": "20190706-010010"
+}

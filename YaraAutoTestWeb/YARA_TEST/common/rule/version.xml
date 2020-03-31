@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<versions>
+ <version packetName="yaraLibrary">
+  <versionName>20190909023</versionName>
+  <packetMD5>2a910b0cba50fc0dbb6e46cb96e007ce</packetMD5>
+ </version>
+</versions>

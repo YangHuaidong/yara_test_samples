@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block body %}
+
+<script src="{{url_for('static', filename='js/post.js')}}" type="text/javascript"></script>
+
+<div class="col-lg-12">
+  <form method="POST">
+    {{form.hidden_tag()}}
+    <div class="form-group">
+      {{form.filepath.label}}
+      {% if form.filepath.errors %}
+        {% for e in form.filepath.errors %}
+          <p class="help-block">{{e}}</p>
+        {% endfor %}
+      {% endif %}
+      {{form.filepath(class_="form-control")}}
+    </div>
+    <p style="color:blue">注:将样本批量上传服务器 给出样本所在路径 eg."/home/zhuqing/samples"</p>
+    
+
+    <input class="btn btn-primary" type="button" onclick="postfile()" value="上传文件" id='post'>
+    &nbsp;
+    &nbsp;
+    <input class="btn btn-primary" type="button" onclick="javascript:window.open('/getlog');"  value="查看日志" id='getlog'>
+    <input class="btn btn-primary" type="button" onclick="javascript:window.open('/getresult/all_black');"  value="查看检出结果" id='getblackresult'>
+    <input class="btn btn-primary" type="button" onclick="javascript:window.open('/getresult/all_white');"  value="查看误报结果" id='getwhiteresult'>
+  </form>
+
+
+
+</div>
+
+<div class="col-lg-12">
+<p style="font-weight:bold">选择样本类型</p>
+<select id="select_samplestype">
+<!-- <option value="none">选择样本类型</option> -->
+<option value="black">黑样本</option>
+<option value="white">白样本</option>
+</select>
+</div>
+{% endblock %}
