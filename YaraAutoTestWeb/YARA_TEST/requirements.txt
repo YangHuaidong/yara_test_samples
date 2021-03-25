@@ -47,7 +47,7 @@ pyOpenSSL==19.0.0
 python-dateutil==2.8.0
 python-editor==1.0.4
 python-json-logger==0.1.11
-PyYAML==5.1.1
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.22.0
 Scrapy==1.7.2
