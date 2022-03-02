@@ -50,7 +50,7 @@ python-json-logger==0.1.11
 PyYAML==5.1.1
 queuelib==1.5.0
 requests==2.22.0
-Scrapy==1.7.2
+Scrapy==1.8.2
 service-identity==18.1.0
 shellescape==3.4.1
 six==1.12.0
